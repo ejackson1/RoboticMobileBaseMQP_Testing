@@ -1,0 +1,857 @@
+INFO:root:volts 0.01652394177068392, time 0.009017467498779297
+INFO:root:volts 0.016484878078554643, time 0.029274940490722656
+INFO:root:volts 0.01652394177068392, time 0.04969429969787598
+INFO:root:volts 0.016484878078554643, time 0.06958651542663574
+INFO:root:volts 0.01650831629383221, time 0.08983421325683594
+INFO:root:volts 0.016430188909573654, time 0.11118316650390625
+INFO:root:volts 0.0164223761711478, time 0.13161873817443848
+INFO:root:volts 0.016516129032258065, time 0.15136432647705078
+INFO:root:volts 0.0164223761711478, time 0.17120742797851562
+INFO:root:volts 0.01647706534012879, time 0.19097399711608887
+INFO:root:volts 0.01657863093966491, time 0.2129993438720703
+INFO:root:volts 0.01652394177068392, time 0.23282408714294434
+INFO:root:volts 0.016453627124851225, time 0.2526376247406006
+INFO:root:volts 0.0165630054628132, time 0.2737703323364258
+INFO:root:volts 0.016516129032258065, time 0.29382777214050293
+INFO:root:volts 0.016492690816980498, time 0.3138394355773926
+INFO:root:volts 0.016555192724387338, time 0.3336625099182129
+INFO:root:volts 0.016492690816980498, time 0.35347843170166016
+INFO:root:volts 0.016516129032258065, time 0.3732762336730957
+INFO:root:volts 0.01657863093966491, time 0.39307618141174316
+INFO:root:volts 0.01647706534012879, time 0.41303014755249023
+INFO:root:volts 0.016555192724387338, time 0.43276143074035645
+INFO:root:volts 0.016555192724387338, time 0.45250868797302246
+INFO:root:volts 0.01646143986327708, time 0.4723682403564453
+INFO:root:volts 0.016555192724387338, time 0.4921596050262451
+INFO:root:volts 0.016555192724387338, time 0.5118741989135742
+INFO:root:volts 0.01653956724753563, time 0.531914472579956
+INFO:root:volts 0.016555192724387338, time 0.5516784191131592
+INFO:root:volts 0.01647706534012879, time 0.5714261531829834
+INFO:root:volts 0.01652394177068392, time 0.5914697647094727
+INFO:root:volts 0.016570818201239054, time 0.6113932132720947
+INFO:root:volts 0.01646143986327708, time 0.6313149929046631
+INFO:root:volts 0.01653956724753563, time 0.6527206897735596
+INFO:root:volts 0.016547379985961484, time 0.6725623607635498
+INFO:root:volts 0.016570818201239054, time 0.6929047107696533
+INFO:root:volts 0.01652394177068392, time 0.7129650115966797
+INFO:root:volts 0.01653956724753563, time 0.732776403427124
+INFO:root:volts 0.01650831629383221, time 0.7527625560760498
+INFO:root:volts 0.016484878078554643, time 0.7727503776550293
+INFO:root:volts 0.01653956724753563, time 0.7939014434814453
+INFO:root:volts 0.01652394177068392, time 0.8136410713195801
+INFO:root:volts 0.0165630054628132, time 0.834071159362793
+INFO:root:volts 0.016453627124851225, time 0.8540973663330078
+INFO:root:volts 0.01652394177068392, time 0.874443531036377
+INFO:root:volts 0.0165630054628132, time 0.8942267894744873
+INFO:root:volts 0.01657863093966491, time 0.9139950275421143
+INFO:root:volts 0.016469252601702934, time 0.9340786933898926
+INFO:root:volts 0.016492690816980498, time 0.9550809860229492
+INFO:root:volts 0.016555192724387338, time 0.9749083518981934
+INFO:root:volts 0.016586443678090763, time 0.9949936866760254
+INFO:root:volts 0.016531754509109774, time 1.0150892734527588
+INFO:root:volts 0.016531754509109774, time 1.0349798202514648
+INFO:root:volts 0.01653956724753563, time 1.055553913116455
+INFO:root:volts 0.016484878078554643, time 1.0755493640899658
+INFO:root:volts 0.016516129032258065, time 1.0957608222961426
+INFO:root:volts 0.016500503555406353, time 1.1169016361236572
+INFO:root:volts 0.016531754509109774, time 1.137192964553833
+INFO:root:volts 0.01644581438642537, time 1.1571462154388428
+INFO:root:volts 0.01657863093966491, time 1.17726469039917
+INFO:root:volts 0.01653956724753563, time 1.197197437286377
+INFO:root:volts 0.016531754509109774, time 1.2169742584228516
+INFO:root:volts 0.016547379985961484, time 1.237041711807251
+INFO:root:volts 0.016453627124851225, time 1.2569563388824463
+INFO:root:volts 0.01650831629383221, time 1.2769334316253662
+INFO:root:volts 0.01652394177068392, time 1.2966513633728027
+INFO:root:volts 0.016570818201239054, time 1.3168604373931885
+INFO:root:volts 0.016516129032258065, time 1.3374583721160889
+INFO:root:volts 0.016586443678090763, time 1.3580536842346191
+INFO:root:volts 0.016602069154942473, time 1.3784916400909424
+INFO:root:volts 0.016594256416516618, time 1.3996686935424805
+INFO:root:volts 0.01650831629383221, time 1.4200997352600098
+INFO:root:volts 0.016516129032258065, time 1.4401285648345947
+INFO:root:volts 0.016555192724387338, time 1.460064172744751
+INFO:root:volts 0.016570818201239054, time 1.4801762104034424
+INFO:root:volts 0.01652394177068392, time 1.5005695819854736
+INFO:root:volts 0.01652394177068392, time 1.5202853679656982
+INFO:root:volts 0.01650831629383221, time 1.5401241779327393
+INFO:root:volts 0.01657863093966491, time 1.5600965023040771
+INFO:root:volts 0.016492690816980498, time 1.584378719329834
+INFO:root:volts 0.016492690816980498, time 1.6040890216827393
+INFO:root:volts 0.0165630054628132, time 1.623976707458496
+INFO:root:volts 0.016547379985961484, time 1.6442790031433105
+INFO:root:volts 0.01652394177068392, time 1.6639912128448486
+INFO:root:volts 0.0165630054628132, time 1.683945655822754
+INFO:root:volts 0.016414563432721945, time 1.703871488571167
+INFO:root:volts 0.01653956724753563, time 1.7240817546844482
+INFO:root:volts 0.01650831629383221, time 1.74641752243042
+INFO:root:volts 0.01637549974059267, time 1.7663533687591553
+INFO:root:volts 0.0164223761711478, time 1.78810715675354
+INFO:root:volts 0.016484878078554643, time 1.8079516887664795
+INFO:root:volts 0.01646143986327708, time 1.8276927471160889
+INFO:root:volts 0.016516129032258065, time 1.8476331233978271
+INFO:root:volts 0.01647706534012879, time 1.8676023483276367
+INFO:root:volts 0.01644581438642537, time 1.8874130249023438
+INFO:root:volts 0.016492690816980498, time 1.907379388809204
+INFO:root:volts 0.016430188909573654, time 1.92767333984375
+INFO:root:volts 0.016484878078554643, time 1.9474704265594482
+INFO:root:volts 0.016500503555406353, time 1.9676084518432617
+INFO:root:volts 0.016367687002166814, time 1.9876787662506104
+INFO:root:volts 0.016469252601702934, time 2.0080225467681885
+INFO:root:volts 0.016500503555406353, time 2.0282154083251953
+INFO:root:volts 0.016398937955870236, time 2.049060344696045
+INFO:root:volts 0.016438001647999512, time 2.06919002532959
+INFO:root:volts 0.016453627124851225, time 2.089228630065918
+INFO:root:volts 0.01644581438642537, time 2.1090855598449707
+INFO:root:volts 0.016531754509109774, time 2.129575252532959
+INFO:root:volts 0.01647706534012879, time 2.1501595973968506
+INFO:root:volts 0.016438001647999512, time 2.1711888313293457
+INFO:root:volts 0.016187994018372145, time 2.1916089057922363
+INFO:root:volts 0.01625830866420484, time 2.2161824703216553
+INFO:root:volts 0.015898922696615497, time 2.236862897872925
+INFO:root:volts -0.2560078127384259, time 2.2569479942321777
+INFO:root:volts -0.2560078127384259, time 2.2769246101379395
+INFO:root:volts 0.016195806756798, time 2.296837568283081
+INFO:root:volts 0.016266121402630694, time 2.3173751831054688
+INFO:root:volts -0.2560078127384259, time 2.337373733520508
+INFO:root:volts -0.2560078127384259, time 2.3572990894317627
+INFO:root:volts -0.2560078127384259, time 2.3802623748779297
+INFO:root:volts -0.2560078127384259, time 2.4010462760925293
+INFO:root:volts -0.00907058931241798, time 2.422929525375366
+INFO:root:volts 0.01652394177068392, time 2.4455270767211914
+INFO:root:volts 0.016852076784569844, time 2.467715263366699
+INFO:root:volts 0.016703634754478593, time 2.4890530109405518
+INFO:root:volts -0.2560078127384259, time 2.5105488300323486
+INFO:root:volts -0.2560078127384259, time 2.532022476196289
+INFO:root:volts -0.2560078127384259, time 2.554380178451538
+INFO:root:volts -0.2560078127384259, time 2.575195074081421
+INFO:root:volts -0.2560078127384259, time 2.5964064598083496
+INFO:root:volts -0.2560078127384259, time 2.6172308921813965
+INFO:root:volts -0.2560078127384259, time 2.6384356021881104
+INFO:root:volts -0.2560078127384259, time 2.6582236289978027
+INFO:root:volts -0.2560078127384259, time 2.6792469024658203
+INFO:root:volts -0.2560078127384259, time 2.7014341354370117
+INFO:root:volts 0.256, time 2.722141981124878
+INFO:root:volts 0.256, time 2.7422969341278076
+INFO:root:volts 0.256, time 2.7647933959960938
+INFO:root:volts 0.256, time 2.7847819328308105
+INFO:root:volts 0.256, time 2.805082321166992
+INFO:root:volts 0.256, time 2.8251495361328125
+INFO:root:volts 0.256, time 2.84505033493042
+INFO:root:volts 0.256, time 2.8649649620056152
+INFO:root:volts 0.256, time 2.885078191757202
+INFO:root:volts 0.256, time 2.9048845767974854
+INFO:root:volts 0.256, time 2.925015687942505
+INFO:root:volts 0.256, time 2.94521427154541
+INFO:root:volts 0.256, time 2.965860605239868
+INFO:root:volts 0.256, time 2.9866602420806885
+INFO:root:volts 0.256, time 3.0075201988220215
+INFO:root:volts 0.256, time 3.027895927429199
+INFO:root:volts 0.256, time 3.0480918884277344
+INFO:root:volts 0.256, time 3.068135976791382
+INFO:root:volts 0.256, time 3.0884149074554443
+INFO:root:volts 0.256, time 3.1083059310913086
+INFO:root:volts 0.256, time 3.1282875537872314
+INFO:root:volts 0.256, time 3.148454189300537
+INFO:root:volts 0.256, time 3.1688053607940674
+INFO:root:volts 0.256, time 3.1887738704681396
+INFO:root:volts 0.256, time 3.208916425704956
+INFO:root:volts 0.256, time 3.2288761138916016
+INFO:root:volts 0.256, time 3.2490835189819336
+INFO:root:volts 0.256, time 3.272000551223755
+INFO:root:volts 0.256, time 3.2922518253326416
+INFO:root:volts 0.256, time 3.3127589225769043
+INFO:root:volts 0.256, time 3.3327510356903076
+INFO:root:volts 0.256, time 3.3533875942230225
+INFO:root:volts 0.256, time 3.373375415802002
+INFO:root:volts 0.256, time 3.3934497833251953
+INFO:root:volts 0.256, time 3.4174752235412598
+INFO:root:volts 0.256, time 3.4374170303344727
+INFO:root:volts 0.256, time 3.4576258659362793
+INFO:root:volts 0.256, time 3.4779815673828125
+INFO:root:volts 0.256, time 3.4977102279663086
+INFO:root:volts 0.256, time 3.5176379680633545
+INFO:root:volts 0.256, time 3.5379750728607178
+INFO:root:volts 0.256, time 3.5579779148101807
+INFO:root:volts 0.256, time 3.578148603439331
+INFO:root:volts 0.256, time 3.5982863903045654
+INFO:root:volts 0.256, time 3.6185295581817627
+INFO:root:volts 0.256, time 3.6385021209716797
+INFO:root:volts 0.256, time 3.658848524093628
+INFO:root:volts 0.256, time 3.6788666248321533
+INFO:root:volts 0.256, time 3.6988749504089355
+INFO:root:volts 0.256, time 3.7191002368927
+INFO:root:volts 0.256, time 3.739443778991699
+INFO:root:volts 0.256, time 3.7601585388183594
+INFO:root:volts 0.256, time 3.780621290206909
+INFO:root:volts 0.256, time 3.8017067909240723
+INFO:root:volts 0.256, time 3.8243908882141113
+INFO:root:volts 0.256, time 3.8453550338745117
+INFO:root:volts 0.256, time 3.865924119949341
+INFO:root:volts 0.256, time 3.886482000350952
+INFO:root:volts 0.256, time 3.9075520038604736
+INFO:root:volts 0.256, time 3.9281251430511475
+INFO:root:volts 0.256, time 3.9481871128082275
+INFO:root:volts 0.256, time 3.9678595066070557
+INFO:root:volts 0.256, time 3.987914562225342
+INFO:root:volts 0.256, time 4.010138750076294
+INFO:root:volts 0.256, time 4.0299458503723145
+INFO:root:volts 0.256, time 4.049799680709839
+INFO:root:volts 0.256, time 4.069896459579468
+INFO:root:volts 0.256, time 4.090186834335327
+INFO:root:volts 0.256, time 4.110538721084595
+INFO:root:volts 0.256, time 4.13043212890625
+INFO:root:volts 0.256, time 4.150824785232544
+INFO:root:volts 0.256, time 4.171853065490723
+INFO:root:volts 0.256, time 4.191779613494873
+INFO:root:volts 0.256, time 4.21180272102356
+INFO:root:volts 0.256, time 4.231975555419922
+INFO:root:volts 0.256, time 4.252154111862183
+INFO:root:volts 0.256, time 4.272232532501221
+INFO:root:volts 0.256, time 4.292216539382935
+INFO:root:volts 0.256, time 4.311948299407959
+INFO:root:volts 0.256, time 4.332286834716797
+INFO:root:volts 0.256, time 4.352152585983276
+INFO:root:volts 0.256, time 4.372416734695435
+INFO:root:volts 0.256, time 4.392641305923462
+INFO:root:volts -0.2560078127384259, time 4.413096904754639
+INFO:root:volts -0.2560078127384259, time 4.433212995529175
+INFO:root:volts 0.256, time 4.453637599945068
+INFO:root:volts 0.256, time 4.473507881164551
+INFO:root:volts 0.256, time 4.49641489982605
+INFO:root:volts 0.256, time 4.519995927810669
+INFO:root:volts 0.256, time 4.539882183074951
+INFO:root:volts 0.256, time 4.5599684715271
+INFO:root:volts 0.256, time 4.580124139785767
+INFO:root:volts 0.256, time 4.600127220153809
+INFO:root:volts 0.256, time 4.6208415031433105
+INFO:root:volts 0.256, time 4.641185283660889
+INFO:root:volts 0.256, time 4.661933660507202
+INFO:root:volts 0.256, time 4.682535409927368
+INFO:root:volts 0.256, time 4.703176498413086
+INFO:root:volts 0.256, time 4.7238609790802
+INFO:root:volts 0.256, time 4.7440948486328125
+INFO:root:volts 0.256, time 4.7641425132751465
+INFO:root:volts 0.256, time 4.784524440765381
+INFO:root:volts 0.256, time 4.8052122592926025
+INFO:root:volts -0.2560078127384259, time 4.825185060501099
+INFO:root:volts -0.08702609332560197, time 4.845369338989258
+INFO:root:volts 0.256, time 4.866113662719727
+INFO:root:volts 0.15071553697317425, time 4.885798931121826
+INFO:root:volts 0.256, time 4.9056243896484375
+INFO:root:volts 0.256, time 4.925622224807739
+INFO:root:volts 0.256, time 4.945542335510254
+INFO:root:volts 0.256, time 4.966269016265869
+INFO:root:volts 0.256, time 4.989181041717529
+INFO:root:volts 0.256, time 5.0096704959869385
+INFO:root:volts 0.256, time 5.030004978179932
+INFO:root:volts 0.256, time 5.049815654754639
+INFO:root:volts 0.256, time 5.07021951675415
+INFO:root:volts 0.256, time 5.090902805328369
+INFO:root:volts 0.256, time 5.111065864562988
+INFO:root:volts 0.256, time 5.131531476974487
+INFO:root:volts 0.256, time 5.152127265930176
+INFO:root:volts 0.256, time 5.171968698501587
+INFO:root:volts 0.256, time 5.191839694976807
+INFO:root:volts 0.256, time 5.212163925170898
+INFO:root:volts 0.256, time 5.232141971588135
+INFO:root:volts 0.256, time 5.252309560775757
+INFO:root:volts 0.256, time 5.272943496704102
+INFO:root:volts 0.256, time 5.293143272399902
+INFO:root:volts 0.256, time 5.313569068908691
+INFO:root:volts 0.256, time 5.3333399295806885
+INFO:root:volts 0.256, time 5.353245258331299
+INFO:root:volts 0.256, time 5.373114109039307
+INFO:root:volts 0.256, time 5.393199682235718
+INFO:root:volts 0.256, time 5.413583755493164
+INFO:root:volts 0.256, time 5.433976411819458
+INFO:root:volts 0.256, time 5.454394817352295
+INFO:root:volts 0.256, time 5.474913597106934
+INFO:root:volts 0.256, time 5.496321678161621
+INFO:root:volts 0.256, time 5.517184495925903
+INFO:root:volts 0.256, time 5.5379674434661865
+INFO:root:volts 0.256, time 5.558262586593628
+INFO:root:volts 0.256, time 5.578207015991211
+INFO:root:volts 0.256, time 5.598299503326416
+INFO:root:volts 0.256, time 5.61859655380249
+INFO:root:volts 0.256, time 5.638619899749756
+INFO:root:volts 0.256, time 5.659038305282593
+INFO:root:volts 0.256, time 5.679091691970825
+INFO:root:volts 0.256, time 5.699233293533325
+INFO:root:volts 0.256, time 5.719405174255371
+INFO:root:volts 0.256, time 5.7396416664123535
+INFO:root:volts 0.256, time 5.7596821784973145
+INFO:root:volts 0.256, time 5.779649257659912
+INFO:root:volts 0.256, time 5.8002660274505615
+INFO:root:volts 0.256, time 5.8203887939453125
+INFO:root:volts 0.256, time 5.840526819229126
+INFO:root:volts 0.256, time 5.86031174659729
+INFO:root:volts 0.256, time 5.8803324699401855
+INFO:root:volts 0.256, time 5.90026593208313
+INFO:root:volts -0.2560078127384259, time 5.920344352722168
+INFO:root:volts -0.2560078127384259, time 5.941063165664673
+INFO:root:volts -0.2560078127384259, time 5.960865020751953
+INFO:root:volts -0.2560078127384259, time 5.980846643447876
+INFO:root:volts -0.2560078127384259, time 6.0009284019470215
+INFO:root:volts -0.2560078127384259, time 6.021536588668823
+INFO:root:volts -0.2560078127384259, time 6.041500091552734
+INFO:root:volts 0.256, time 6.06163477897644
+INFO:root:volts 0.256, time 6.08214545249939
+INFO:root:volts 0.256, time 6.102153778076172
+INFO:root:volts 0.256, time 6.123045444488525
+INFO:root:volts 0.256, time 6.143686532974243
+INFO:root:volts 0.256, time 6.16566014289856
+INFO:root:volts 0.256, time 6.186615705490112
+INFO:root:volts 0.256, time 6.2070698738098145
+INFO:root:volts 0.256, time 6.2271363735198975
+INFO:root:volts 0.256, time 6.246932744979858
+INFO:root:volts 0.256, time 6.266873121261597
+INFO:root:volts 0.256, time 6.289184331893921
+INFO:root:volts 0.256, time 6.309371471405029
+INFO:root:volts 0.256, time 6.329528570175171
+INFO:root:volts 0.256, time 6.349600553512573
+INFO:root:volts 0.256, time 6.369426965713501
+INFO:root:volts 0.256, time 6.3897716999053955
+INFO:root:volts 0.256, time 6.410163402557373
+INFO:root:volts 0.256, time 6.430325031280518
+INFO:root:volts 0.256, time 6.45054030418396
+INFO:root:volts 0.256, time 6.470643520355225
+INFO:root:volts 0.256, time 6.490375518798828
+INFO:root:volts 0.256, time 6.51018500328064
+INFO:root:volts 0.256, time 6.530273914337158
+INFO:root:volts 0.256, time 6.550115346908569
+INFO:root:volts 0.256, time 6.570205211639404
+INFO:root:volts 0.256, time 6.590518236160278
+INFO:root:volts 0.256, time 6.610301494598389
+INFO:root:volts 0.256, time 6.629940748214722
+INFO:root:volts 0.256, time 6.649920463562012
+INFO:root:volts 0.256, time 6.67009425163269
+INFO:root:volts 0.256, time 6.6904261112213135
+INFO:root:volts 0.256, time 6.71020245552063
+INFO:root:volts 0.256, time 6.730356931686401
+INFO:root:volts 0.256, time 6.750394821166992
+INFO:root:volts 0.256, time 6.770636558532715
+INFO:root:volts 0.256, time 6.791052341461182
+INFO:root:volts 0.256, time 6.810930013656616
+INFO:root:volts 0.256, time 6.830897092819214
+INFO:root:volts 0.256, time 6.851406097412109
+INFO:root:volts 0.256, time 6.871458292007446
+INFO:root:volts 0.256, time 6.8916215896606445
+INFO:root:volts 0.256, time 6.911437034606934
+INFO:root:volts 0.256, time 6.9316864013671875
+INFO:root:volts 0.256, time 6.951467752456665
+INFO:root:volts 0.256, time 6.97201681137085
+INFO:root:volts 0.256, time 6.993167161941528
+INFO:root:volts 0.256, time 7.013511657714844
+INFO:root:volts 0.256, time 7.034093141555786
+INFO:root:volts 0.256, time 7.0549256801605225
+INFO:root:volts 0.256, time 7.07506251335144
+INFO:root:volts 0.256, time 7.094912528991699
+INFO:root:volts 0.256, time 7.11487889289856
+INFO:root:volts 0.256, time 7.134743690490723
+INFO:root:volts 0.256, time 7.154457092285156
+INFO:root:volts 0.256, time 7.174165487289429
+INFO:root:volts 0.256, time 7.194512605667114
+INFO:root:volts 0.256, time 7.214602947235107
+INFO:root:volts 0.256, time 7.236138105392456
+INFO:root:volts 0.256, time 7.256228923797607
+INFO:root:volts 0.256, time 7.2762131690979
+INFO:root:volts 0.256, time 7.296044111251831
+INFO:root:volts 0.256, time 7.315958499908447
+INFO:root:volts 0.256, time 7.3363423347473145
+INFO:root:volts 0.256, time 7.356905698776245
+INFO:root:volts 0.256, time 7.376900672912598
+INFO:root:volts 0.256, time 7.397040843963623
+INFO:root:volts 0.256, time 7.417309999465942
+INFO:root:volts 0.256, time 7.4393956661224365
+INFO:root:volts 0.256, time 7.459899425506592
+INFO:root:volts 0.256, time 7.479840040206909
+INFO:root:volts 0.256, time 7.499751567840576
+INFO:root:volts 0.256, time 7.5195417404174805
+INFO:root:volts 0.256, time 7.539534330368042
+INFO:root:volts 0.256, time 7.559613227844238
+INFO:root:volts 0.256, time 7.579960346221924
+INFO:root:volts 0.256, time 7.600401401519775
+INFO:root:volts 0.256, time 7.620385646820068
+INFO:root:volts 0.256, time 7.640282154083252
+INFO:root:volts 0.256, time 7.660271406173706
+INFO:root:volts 0.256, time 7.68058967590332
+INFO:root:volts 0.256, time 7.7004594802856445
+INFO:root:volts 0.256, time 7.720386028289795
+INFO:root:volts 0.256, time 7.7405149936676025
+INFO:root:volts 0.256, time 7.7602410316467285
+INFO:root:volts 0.256, time 7.780846834182739
+INFO:root:volts 0.256, time 7.801421880722046
+INFO:root:volts 0.256, time 7.822052717208862
+INFO:root:volts 0.256, time 7.842542409896851
+INFO:root:volts 0.256, time 7.863009452819824
+INFO:root:volts 0.256, time 7.883251190185547
+INFO:root:volts 0.256, time 7.9031312465667725
+INFO:root:volts 0.256, time 7.922861337661743
+INFO:root:volts 0.256, time 7.942815065383911
+INFO:root:volts 0.256, time 7.963240623474121
+INFO:root:volts 0.256, time 7.983099937438965
+INFO:root:volts 0.256, time 8.00324273109436
+INFO:root:volts 0.256, time 8.022960662841797
+INFO:root:volts 0.256, time 8.04298734664917
+INFO:root:volts 0.256, time 8.062839031219482
+INFO:root:volts 0.256, time 8.083033800125122
+INFO:root:volts 0.256, time 8.10378360748291
+INFO:root:volts 0.256, time 8.123590230941772
+INFO:root:volts 0.256, time 8.145270586013794
+INFO:root:volts 0.256, time 8.16669511795044
+INFO:root:volts 0.256, time 8.186422109603882
+INFO:root:volts 0.256, time 8.20651650428772
+INFO:root:volts 0.256, time 8.226827621459961
+INFO:root:volts 0.256, time 8.246900081634521
+INFO:root:volts 0.256, time 8.266796112060547
+INFO:root:volts 0.256, time 8.286914825439453
+INFO:root:volts 0.256, time 8.307620286941528
+INFO:root:volts 0.256, time 8.327816724777222
+INFO:root:volts 0.256, time 8.348038911819458
+INFO:root:volts 0.256, time 8.368111610412598
+INFO:root:volts 0.256, time 8.388119220733643
+INFO:root:volts 0.256, time 8.408131122589111
+INFO:root:volts 0.256, time 8.42819857597351
+INFO:root:volts 0.256, time 8.44796633720398
+INFO:root:volts 0.256, time 8.467817783355713
+INFO:root:volts 0.256, time 8.48788595199585
+INFO:root:volts 0.256, time 8.50856065750122
+INFO:root:volts 0.256, time 8.52848768234253
+INFO:root:volts 0.256, time 8.548570156097412
+INFO:root:volts 0.256, time 8.568723678588867
+INFO:root:volts 0.256, time 8.589228630065918
+INFO:root:volts 0.256, time 8.609364748001099
+INFO:root:volts 0.256, time 8.629597663879395
+INFO:root:volts 0.256, time 8.64936637878418
+INFO:root:volts 0.256, time 8.669291257858276
+INFO:root:volts 0.256, time 8.6892728805542
+INFO:root:volts 0.256, time 8.709282398223877
+INFO:root:volts 0.256, time 8.72902798652649
+INFO:root:volts 0.256, time 8.74906039237976
+INFO:root:volts 0.256, time 8.769577503204346
+INFO:root:volts 0.256, time 8.790022611618042
+INFO:root:volts 0.256, time 8.80980134010315
+INFO:root:volts 0.256, time 8.829753875732422
+INFO:root:volts 0.256, time 8.8495512008667
+INFO:root:volts 0.256, time 8.869728326797485
+INFO:root:volts 0.256, time 8.889424085617065
+INFO:root:volts 0.256, time 8.909408807754517
+INFO:root:volts 0.256, time 8.929574728012085
+INFO:root:volts 0.256, time 8.949578762054443
+INFO:root:volts 0.256, time 8.969543695449829
+INFO:root:volts 0.256, time 8.989989519119263
+INFO:root:volts 0.256, time 9.010592460632324
+INFO:root:volts 0.256, time 9.03046727180481
+INFO:root:volts 0.256, time 9.050466775894165
+INFO:root:volts 0.256, time 9.070528268814087
+INFO:root:volts 0.256, time 9.090497732162476
+INFO:root:volts 0.256, time 9.110556364059448
+INFO:root:volts 0.256, time 9.130683898925781
+INFO:root:volts 0.256, time 9.150640726089478
+INFO:root:volts 0.256, time 9.170619249343872
+INFO:root:volts 0.256, time 9.190955638885498
+INFO:root:volts 0.256, time 9.211025714874268
+INFO:root:volts 0.256, time 9.23127794265747
+INFO:root:volts 0.256, time 9.251850605010986
+INFO:root:volts 0.256, time 9.271910190582275
+INFO:root:volts 0.256, time 9.292664527893066
+INFO:root:volts 0.256, time 9.312463998794556
+INFO:root:volts 0.256, time 9.33247995376587
+INFO:root:volts 0.256, time 9.353004932403564
+INFO:root:volts 0.256, time 9.37343454360962
+INFO:root:volts 0.256, time 9.393423318862915
+INFO:root:volts 0.256, time 9.413289546966553
+INFO:root:volts 0.256, time 9.433422088623047
+INFO:root:volts 0.256, time 9.453866004943848
+INFO:root:volts 0.256, time 9.474365711212158
+INFO:root:volts 0.256, time 9.494418382644653
+INFO:root:volts 0.256, time 9.514855861663818
+INFO:root:volts 0.256, time 9.535542488098145
+INFO:root:volts 0.256, time 9.555543661117554
+INFO:root:volts 0.256, time 9.575417280197144
+INFO:root:volts 0.256, time 9.595907211303711
+INFO:root:volts 0.256, time 9.615850448608398
+INFO:root:volts 0.256, time 9.636584997177124
+INFO:root:volts 0.256, time 9.65644121170044
+INFO:root:volts 0.256, time 9.67673921585083
+INFO:root:volts 0.256, time 9.696638822555542
+INFO:root:volts 0.256, time 9.716548681259155
+INFO:root:volts 0.256, time 9.736542463302612
+INFO:root:volts 0.256, time 9.756336688995361
+INFO:root:volts 0.256, time 9.776576042175293
+INFO:root:volts 0.256, time 9.796665906906128
+INFO:root:volts 0.256, time 9.816967725753784
+INFO:root:volts 0.256, time 9.837351560592651
+INFO:root:volts 0.256, time 9.85715389251709
+INFO:root:volts 0.256, time 9.877193450927734
+INFO:root:volts 0.256, time 9.897977113723755
+INFO:root:volts 0.256, time 9.918332815170288
+INFO:root:volts 0.256, time 9.938571453094482
+INFO:root:volts 0.256, time 9.958569765090942
+INFO:root:volts 0.256, time 9.97928261756897
+INFO:root:volts 0.256, time 9.999860286712646
+INFO:root:volts 0.256, time 10.019822120666504
+INFO:root:volts 0.256, time 10.039745569229126
+INFO:root:volts 0.256, time 10.059690713882446
+INFO:root:volts 0.256, time 10.079773426055908
+INFO:root:volts 0.256, time 10.09978699684143
+INFO:root:volts 0.256, time 10.119818925857544
+INFO:root:volts 0.256, time 10.139911651611328
+INFO:root:volts 0.256, time 10.15998101234436
+INFO:root:volts 0.256, time 10.180170059204102
+INFO:root:volts 0.256, time 10.200352907180786
+INFO:root:volts 0.256, time 10.220233678817749
+INFO:root:volts 0.256, time 10.23999547958374
+INFO:root:volts 0.256, time 10.260103225708008
+INFO:root:volts 0.256, time 10.279911279678345
+INFO:root:volts 0.256, time 10.300104141235352
+INFO:root:volts 0.256, time 10.32012391090393
+INFO:root:volts 0.256, time 10.340539932250977
+INFO:root:volts 0.256, time 10.361577987670898
+INFO:root:volts 0.256, time 10.381554365158081
+INFO:root:volts 0.256, time 10.401755571365356
+INFO:root:volts 0.256, time 10.421684503555298
+INFO:root:volts 0.256, time 10.44156289100647
+INFO:root:volts 0.256, time 10.461546182632446
+INFO:root:volts 0.256, time 10.481417179107666
+INFO:root:volts 0.256, time 10.501442193984985
+INFO:root:volts 0.256, time 10.521533012390137
+INFO:root:volts 0.256, time 10.541589736938477
+INFO:root:volts 0.256, time 10.561516284942627
+INFO:root:volts 0.256, time 10.581543445587158
+INFO:root:volts 0.256, time 10.602037191390991
+INFO:root:volts 0.256, time 10.622748613357544
+INFO:root:volts 0.256, time 10.642800569534302
+INFO:root:volts 0.256, time 10.662819385528564
+INFO:root:volts 0.256, time 10.682640790939331
+INFO:root:volts 0.256, time 10.70306944847107
+INFO:root:volts 0.256, time 10.72350549697876
+INFO:root:volts 0.256, time 10.743398189544678
+INFO:root:volts 0.256, time 10.763773679733276
+INFO:root:volts 0.256, time 10.783759117126465
+INFO:root:volts 0.256, time 10.804197549819946
+INFO:root:volts 0.256, time 10.824220418930054
+INFO:root:volts 0.256, time 10.844102144241333
+INFO:root:volts 0.256, time 10.864248514175415
+INFO:root:volts 0.256, time 10.884409427642822
+INFO:root:volts 0.256, time 10.905055522918701
+INFO:root:volts 0.256, time 10.925060987472534
+INFO:root:volts 0.256, time 10.944967269897461
+INFO:root:volts 0.256, time 10.9648118019104
+INFO:root:volts 0.256, time 10.985171794891357
+INFO:root:volts 0.256, time 11.0051429271698
+INFO:root:volts 0.256, time 11.02511477470398
+INFO:root:volts 0.256, time 11.04513144493103
+INFO:root:volts 0.256, time 11.06546401977539
+INFO:root:volts 0.256, time 11.086083173751831
+INFO:root:volts 0.256, time 11.105894804000854
+INFO:root:volts 0.256, time 11.12578797340393
+INFO:root:volts 0.256, time 11.145705461502075
+INFO:root:volts 0.256, time 11.166064739227295
+INFO:root:volts 0.256, time 11.186235427856445
+INFO:root:volts 0.256, time 11.206118106842041
+INFO:root:volts 0.256, time 11.226085662841797
+INFO:root:volts 0.256, time 11.246201038360596
+INFO:root:volts 0.256, time 11.26627516746521
+INFO:root:volts 0.256, time 11.286361694335938
+INFO:root:volts 0.256, time 11.306253433227539
+INFO:root:volts 0.256, time 11.326233386993408
+INFO:root:volts 0.256, time 11.346220254898071
+INFO:root:volts 0.256, time 11.366679668426514
+INFO:root:volts 0.256, time 11.386454343795776
+INFO:root:volts 0.256, time 11.406457424163818
+INFO:root:volts 0.256, time 11.426397800445557
+INFO:root:volts 0.256, time 11.446363925933838
+INFO:root:volts 0.256, time 11.466457605361938
+INFO:root:volts 0.256, time 11.486846923828125
+INFO:root:volts 0.256, time 11.50725269317627
+INFO:root:volts 0.256, time 11.527177095413208
+INFO:root:volts 0.256, time 11.547794580459595
+INFO:root:volts 0.256, time 11.568091630935669
+INFO:root:volts 0.256, time 11.588998079299927
+INFO:root:volts 0.256, time 11.608901262283325
+INFO:root:volts 0.256, time 11.629006624221802
+INFO:root:volts 0.256, time 11.649306297302246
+INFO:root:volts 0.256, time 11.66929006576538
+INFO:root:volts 0.256, time 11.691174745559692
+INFO:root:volts 0.256, time 11.712250232696533
+INFO:root:volts 0.256, time 11.73231053352356
+INFO:root:volts 0.256, time 11.752095460891724
+INFO:root:volts 0.256, time 11.773169040679932
+INFO:root:volts 0.256, time 11.79408073425293
+INFO:root:volts 0.256, time 11.814994812011719
+INFO:root:volts 0.256, time 11.834861755371094
+INFO:root:volts 0.256, time 11.854799509048462
+INFO:root:volts 0.256, time 11.874647617340088
+INFO:root:volts 0.256, time 11.894659280776978
+INFO:root:volts 0.256, time 11.914650917053223
+INFO:root:volts 0.256, time 11.93455719947815
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-ExtraBold.otf', name='Cantarell', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf', name='Standard Symbols PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-ThinItalic.ttf', name='Piboto', style='italic', variant='normal', weight=100, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf', name='Noto Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Light.ttf', name='Quicksand Light', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtItalic.ttf', name='PibotoLt', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-BoldItalic.ttf', name='Piboto', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Regular.ttf', name='Piboto', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Bold.ttf', name='Piboto', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Medium.ttf', name='Quicksand Medium', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Bold.ttf', name='Piboto Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-BoldItalic.ttf', name='Piboto Condensed', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Thin.otf', name='Cantarell', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLt-Regular.ttf', name='PibotoLt', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Bold.otf', name='Cantarell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Regular.otf', name='Cantarell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Regular.ttf', name='Piboto Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-LightItalic.ttf', name='Piboto', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Light.ttf', name='Piboto', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Light.otf', name='Cantarell', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Thin.ttf', name='Piboto', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtBoldItalic.ttf', name='PibotoLt', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Bold.ttf', name='Quicksand', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtBold.ttf', name='PibotoLt', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Italic.ttf', name='Piboto', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Regular.ttf', name='Quicksand', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Italic.ttf', name='Piboto Condensed', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Italic.otf', name='C059', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerif.ttf', name='FreeSerif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-BoldItalic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Italic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-ExtraBold.otf', name='Cantarell', style='normal', variant='normal', weight=800, stretch='normal', size='scalable')) = 10.43
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/StandardSymbolsPS.otf', name='Standard Symbols PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-DemiItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-BookOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-DemiOblique.otf', name='URW Gothic', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf', name='Liberation Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-ThinItalic.ttf', name='Piboto', style='italic', variant='normal', weight=100, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Bold.otf', name='C059', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/Z003-MediumItalic.otf', name='Z003', style='italic', variant='normal', weight=500, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Demi.otf', name='URW Bookman', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/D050000L.otf', name='D050000L', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoMono-Regular.ttf', name='Noto Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-BdIta.otf', name='C059', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Light.ttf', name='Quicksand Light', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBoldOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Bold.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtItalic.ttf', name='PibotoLt', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-BoldItalic.ttf', name='Piboto', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Regular.ttf', name='Piboto', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Bold.ttf', name='Piboto', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Regular.otf', name='Nimbus Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBold.ttf', name='FreeSans', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Regular.ttf', name='Liberation Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Medium.ttf', name='Quicksand Medium', style='normal', variant='normal', weight=500, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Bold.ttf', name='Piboto Condensed', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Book.otf', name='URW Gothic', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Regular.otf', name='Nimbus Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Italic.ttf', name='Liberation Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Bold.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMono.ttf', name='FreeMono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoBold.ttf', name='FreeMono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-BoldItalic.ttf', name='Piboto Condensed', style='italic', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Bold.otf', name='Nimbus Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Thin.otf', name='Cantarell', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLt-Regular.ttf', name='PibotoLt', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/noto/NotoSansMono-Regular.ttf', name='Noto Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-BoldItalic.ttf', name='Liberation Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWGothic-Demi.otf', name='URW Gothic', style='normal', variant='normal', weight=600, stretch='normal', size='scalable')) = 10.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Bold.ttf', name='Liberation Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-BoldItalic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Italic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSans-Bold.ttf', name='Liberation Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Roman.otf', name='P052', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Regular.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/C059-Roman.otf', name='C059', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationMono-Italic.ttf', name='Liberation Mono', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Bold.otf', name='Cantarell', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Regular.otf', name='Cantarell', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-BoldItalic.otf', name='P052', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Regular.ttf', name='Piboto Condensed', style='normal', variant='normal', weight=400, stretch='condensed', size='scalable')) = 10.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-Bold.otf', name='Nimbus Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSansBoldOblique.ttf', name='FreeSans', style='oblique', variant='normal', weight=600, stretch='normal', size='scalable')) = 11.24
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSans.ttf', name='FreeSans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-Light.otf', name='URW Bookman', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-LightItalic.ttf', name='Piboto', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Light.ttf', name='Piboto', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Italic.otf', name='P052', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/cantarell/Cantarell-Light.otf', name='Cantarell', style='normal', variant='normal', weight=300, stretch='normal', size='scalable')) = 10.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf', name='Liberation Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-BoldItalic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Italic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBold.ttf', name='FreeSerif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSans-BoldItalic.otf', name='Nimbus Sans', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-BoldOblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=700, stretch='condensed', size='scalable')) = 11.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-Regular.otf', name='Nimbus Mono PS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeMonoOblique.ttf', name='FreeMono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusMonoPS-BoldItalic.otf', name='Nimbus Mono PS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/droid/DroidSansFallbackFull.ttf', name='Droid Sans Fallback', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Thin.ttf', name='Piboto', style='normal', variant='normal', weight=100, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Bold.otf', name='Nimbus Sans Narrow', style='normal', variant='normal', weight=700, stretch='condensed', size='scalable')) = 10.535
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtBoldItalic.ttf', name='PibotoLt', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Bold.ttf', name='Quicksand', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/URWBookman-LightItalic.otf', name='URW Bookman', style='italic', variant='normal', weight=300, stretch='normal', size='scalable')) = 11.145
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusRoman-Italic.otf', name='Nimbus Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoLtBold.ttf', name='PibotoLt', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/Piboto-Italic.ttf', name='Piboto', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/NimbusSansNarrow-Oblique.otf', name='Nimbus Sans Narrow', style='oblique', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/liberation2/LiberationSerif-Bold.ttf', name='Liberation Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/freefont/FreeSerifBoldItalic.ttf', name='FreeSerif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/opentype/urw-base35/P052-Bold.otf', name='P052', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/quicksand/Quicksand-Regular.ttf', name='Quicksand', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+DEBUG:matplotlib.font_manager:findfont: score(FontEntry(fname='/usr/share/fonts/truetype/piboto/PibotoCondensed-Italic.ttf', name='Piboto Condensed', style='italic', variant='normal', weight=400, stretch='condensed', size='scalable')) = 11.25
+DEBUG:matplotlib.font_manager:findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.9/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
